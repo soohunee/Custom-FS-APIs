@@ -5,6 +5,7 @@
 ### - display metadata of a file
 ![stat](https://user-images.githubusercontent.com/76514241/119773294-6544ab80-befb-11eb-95ec-b86c62dce930.PNG)
 
+
 ## 2. ListFiles
 ### - list files in current directory
 ![ListFiles](https://user-images.githubusercontent.com/76514241/119773359-7c839900-befb-11eb-8134-ccc4679f7c78.PNG)
@@ -21,11 +22,13 @@
 ### - list files in not existing directory
 ![ListFiles4](https://user-images.githubusercontent.com/76514241/119773744-0f243800-befc-11eb-8e1a-a5e40211b417.PNG)
 
+
 ## 3. Tail
 ### - display n lines from the end of the file (n is passed through argument)
 ![tail](https://user-images.githubusercontent.com/76514241/119773955-60342c00-befc-11eb-965c-15e9bb4d61b7.PNG)
 
-## 3. RecursiveSearch
+
+## 4. RecursiveSearch
 ### - recursively search current directory
 ![tail2](https://user-images.githubusercontent.com/76514241/119774110-a4bfc780-befc-11eb-857c-115f6382e031.PNG)
 
@@ -34,7 +37,3 @@
 
 ### - when file not found
 ![tail4](https://user-images.githubusercontent.com/76514241/119774216-cde05800-befc-11eb-9690-64f48c951f61.PNG)
-
-
-
-
