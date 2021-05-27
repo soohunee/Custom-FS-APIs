@@ -1,5 +1,6 @@
 # Custom File System APIs based on UNIX utilities
-# (Programming Language : C / OS : Ubuntu)
+## Programming Language : C
+## OS : Ubuntu
 
 ## - Implemented own version of command line programs
 ## 1. Stat
